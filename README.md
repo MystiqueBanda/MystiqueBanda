@@ -29,11 +29,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityashankardatta&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MystiqueBanda&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashankardatta&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MystiqueBanda&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 
