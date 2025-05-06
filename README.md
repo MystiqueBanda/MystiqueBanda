@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,cpp,linux,bash,figma,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,c,linux,bash,vscode,github" />
 </p>
 
 ---
@@ -29,8 +29,22 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityashankardatta&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashankardatta&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityashankardatta&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashankardatta&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+
+---
+
+### 📲 My Socials
+
+<p align="left">
+  <a href="https://mystiquebanda.github.io/my-socials/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Socials-Click%20Here-blueviolet?style=for-the-badge&logo=socialblade&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -38,9 +52,9 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aditya-shankar-datta-854192305/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@retarded_adi" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="adityasdatta@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
